@@ -49,11 +49,11 @@ step(sys,t)
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
-Steady State Error = 0.95
-Settling Time = 2.50
+Steady State Error = 0.95<br>
+Settling Time = 2.50 s
 ### Closed loop System
-Steady State Error = 0.062
-Settling Time = 1.61
+Steady State Error = 0.062<br>
+Settling Time = 1.61 s
 
 
 
